@@ -12,7 +12,7 @@ I'm Bruno Mariano, I'm a Frontend developer 👨‍💻 who is passionate about 
 - 🔭 I’m currently working on React and React Native
 - 🌱 I’m currently learning Design Pattners
 - 💬 Ask me about: tech, mangas/animes, calisthenics
-- 😄 Pronouns: he/him
+- :computer: Main stack: React, React Native and Node
 -  ⚡ Languages: Typescript
 
 
