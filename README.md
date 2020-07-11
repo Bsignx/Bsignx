@@ -16,7 +16,7 @@ I'm Bruno Mariano, I'm a Frontend developer 👨‍💻 who is passionate about 
 -  ⚡ Languages: Typescript
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Bsignx.Bsignx) 
 
 ---
 ⭐️ From [Bruno Mariano](https://github.com/bsignx) 
