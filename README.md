@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bsignx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bsignx@gmail.com)](mailto:bsignx@gmail.com)
 
 
-## Hi 👋, 
+## Hi there 👋, 
 I'm Bruno Mariano, I'm a Frontend developer 👨‍💻 who is passionate about web technologies and UX/UI. I'm also a self procliamed UI design and internet surfer 
 🏄‍♂️. 
 
