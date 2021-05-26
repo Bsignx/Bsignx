@@ -9,7 +9,7 @@
 I'm Bruno Mariano, I'm a Frontend developer 👨‍💻 who is passionate about web technologies and UX/UI. I'm also a self procliamed UI design and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on React and React Native
+- 🔭 I’m currently working on React, Next Js and Angular
 - 🌱 I’m currently learning Design Pattners
 - 💬 Ask me about: tech, mangas/animes, calisthenics and personal development
 - :computer: Main stack: React, React Native and Node
