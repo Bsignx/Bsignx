@@ -17,7 +17,7 @@ I'm Bruno Mariano, I'm a Frontend developer 👨‍💻 who is passionate about 
  
 <hr>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/bsignx">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bsignx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
