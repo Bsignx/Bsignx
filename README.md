@@ -18,10 +18,8 @@ Want to know more about me? [Check out my portfolio.](https://brunomariano.me/)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bsignx&theme=dark)](https://git.io/streak-stats)
 
 <br>
-<br>
 
 ## 💼 Skills
-
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next&logoColor=FC466B&color=0F1413)
