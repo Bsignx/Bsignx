@@ -15,10 +15,7 @@ Want to know more about me? [Check out my portfolio.](https://brunomariano.me/)
 
 <br>
 
-
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Bsignx&show_icons=true&line_height=27&title_color=3F5EFB&text_color=FC466B&icon_color=3F5EFB&bg_color=0F1413&include_all_commits=true" />
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bsignx&theme=dark)](https://git.io/streak-stats)
 
 <br>
 <br>
@@ -36,6 +33,7 @@ Want to know more about me? [Check out my portfolio.](https://brunomariano.me/)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=FC466B&color=0F1413)
+
 
 
 
