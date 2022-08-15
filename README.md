@@ -21,6 +21,10 @@ Want to know more about me? [Check out my portfolio.](https://brunomariano.me/)
 
 ## 💼 Skills
 
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Test-RTL-informational?style=flat&logo=Rtl&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Code-ReactQuery-informational?style=flat&logo=ReactQuery&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=FC466B&color=0F1413)
@@ -29,8 +33,13 @@ Want to know more about me? [Check out my portfolio.](https://brunomariano.me/)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Style-Stitches-informational?style=flat&logo=Stitches&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Style-ChakraUI-informational?style=flat&logo=ChakraUI&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat&logo=MaterialUI&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=FC466B&color=0F1413)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=FC466B&color=0F1413)
+![](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=Webpackl&logoColor=FC466B&color=0F1413)
 
 
 
